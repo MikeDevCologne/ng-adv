@@ -3,5 +3,5 @@ export const environment = {
   authEnabled: false,
   title: 'Theming',
   markdownPath: '/assets/markdown/',
-  api: 'http://localhost:3000/',
+  api: 'http://localhost:3500/',
 };
